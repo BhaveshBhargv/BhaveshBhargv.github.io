@@ -2,10 +2,13 @@
 
 This is my personal website.
 
-> This webpage is build from scratch
+ This webpage is build from scratch
 
-> Background images mostly from 
+ Background images mostly from 
 
-> Built with:
-    - HTML
-    - CSS
+ Built with:
+ 
+    HTML
+    
+    CSS
+    
