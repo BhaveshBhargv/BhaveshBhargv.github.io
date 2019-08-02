@@ -6,7 +6,6 @@ This is my personal website.
 
 > Background images mostly from 
 
-> Built with: 
-
-             HTML
-             CSS
+> Built with:
+    - HTML
+    - CSS
